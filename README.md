@@ -1,0 +1,1 @@
+Sample hello world app created in Angular 2
